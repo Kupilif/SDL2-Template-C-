@@ -1,1 +1,1 @@
-# SDL2-Template-C-
+Move SDL2.dll to folder with *.exe file
